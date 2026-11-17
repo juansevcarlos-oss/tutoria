@@ -6,4 +6,6 @@ Silvia: te parece buena las clases de objetos.
 juan: podria ser mejor (no entiendo nada)
 silvia:  la verda si le entiendo pero me confundo de comndos
 juan: :3
+silvia: que es eso
+
 
