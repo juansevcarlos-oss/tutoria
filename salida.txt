@@ -2,4 +2,5 @@ hola mundo
 INICIANDO CHAT
 Silvia : recuerdas los comandos que necesitamos para el git.
 juan: nop :p
+Silvia: te parece buena las clases de objetos.
 
